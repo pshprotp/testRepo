@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		806CAF1C1FB38732005E5917 /* Model.m in Sources */ = {isa = PBXBuildFile; fileRef = 806CAF1B1FB38732005E5917 /* Model.m */; };
 		80F726961FB3740400C70E44 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 80F726951FB3740400C70E44 /* AppDelegate.m */; };
 		80F726991FB3740400C70E44 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 80F726981FB3740400C70E44 /* ViewController.m */; };
 		80F7269C1FB3740400C70E44 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80F7269A1FB3740400C70E44 /* Main.storyboard */; };
@@ -16,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		806CAF1A1FB38732005E5917 /* Model.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Model.h; sourceTree = "<group>"; };
+		806CAF1B1FB38732005E5917 /* Model.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Model.m; sourceTree = "<group>"; };
 		80F726911FB3740400C70E44 /* lesson_65_1_Gitignore.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lesson_65_1_Gitignore.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		80F726941FB3740400C70E44 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		80F726951FB3740400C70E44 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -60,6 +63,8 @@
 			children = (
 				80F726941FB3740400C70E44 /* AppDelegate.h */,
 				80F726951FB3740400C70E44 /* AppDelegate.m */,
+				806CAF1A1FB38732005E5917 /* Model.h */,
+				806CAF1B1FB38732005E5917 /* Model.m */,
 				80F726971FB3740400C70E44 /* ViewController.h */,
 				80F726981FB3740400C70E44 /* ViewController.m */,
 				80F7269A1FB3740400C70E44 /* Main.storyboard */,
@@ -145,6 +150,7 @@
 				80F726991FB3740400C70E44 /* ViewController.m in Sources */,
 				80F726A41FB3740400C70E44 /* main.m in Sources */,
 				80F726961FB3740400C70E44 /* AppDelegate.m in Sources */,
+				806CAF1C1FB38732005E5917 /* Model.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
